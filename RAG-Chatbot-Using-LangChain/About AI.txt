@@ -1,0 +1,11 @@
+Sri Ramakrishna Institute of Technology (SRIT) is located in Coimbatore.
+
+The Principal of SRIT is Dr. S. Kumaravel.
+
+The Head of the Computer Science and Engineering Department is Dr. R. Anitha.
+
+The college library is open from 8:00 AM to 8:00 PM.
+
+Mithun is a final-year B.E. Computer Science student.
+
+Mithun is interested in Java, Artificial Intelligence, Full Stack Development, and Retrieval-Augmented Generation (RAG).
